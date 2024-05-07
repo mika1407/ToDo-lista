@@ -1,4 +1,4 @@
-# todo
+# todo-lista Metropolian Vue.js kurssilta
 
 ## Project setup
 ```
